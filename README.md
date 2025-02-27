@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 Full-Stack Web Developer | MERN Stack Specialist | Freelancer<br>
+## 🚀 Full-Stack Web Developer | MERN Stack Developer | Freelancer<br>
 Passionate MERN Stack Developer with a knack for crafting robust, user-centric web applications. Leveraging modern tools like React, Node.js, and Docker to build scalable solutions. Committed to clean code, seamless integrations, and continuous learning in the ever-evolving tech landscape.<br><br>🔭 I’m currently working on freelance projects and open-source contributions<br>👯 I’m looking to collaborate on Open-source projects involving Next.js, Prisma ORM, or PostgreSQL; Innovative UI/UX projects using Framer Motion or Tailwind CSS.<br>💬 Ask me about: MERN stack performance optimization | Secure authentication with JWT & OAuth  | Tailwind CSS vs. traditional CSS frameworks | Dockerizing and deploying full-stack apps | Scalable API design best practices<br>⚡ Fun fact: I enjoy solving complex coding challenges and optimizing performance!<br><br>📫 Let's connect
 
 
