@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 Full-Stack Web Developer | MERN/PERN Stack | React.js, Node.js & Next.js
+## 🚀 Full-Stack Web Developer | MERN/PERN Stack | React.js, Node.js & Next.js | Eth | Solana
 Passionate Full Stack Developer with a knack for crafting robust, user-centric web applications. I aim to further refine my expertise in scalable web architectures, sleek and minimalistic frontends combined with high-performance backends, with the ultimate goal of delivering web solutions that add real value to businesses and drive progress. From the way I perceive it, web apps play an integral role in connecting individuals and entities with shared goals and common interests—they shrink vast geographical distances into valuable connections.
 
 
