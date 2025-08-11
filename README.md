@@ -1,7 +1,5 @@
 # 💫 About Me:
 ## 🚀 Full-Stack Web Developer | MERN/PERN Stack | React.js, Node.js & Next.js | Eth | Solana
-Passionate Full Stack Developer with a knack for crafting robust, user-centric web applications. I aim to further refine my expertise in scalable web architectures, sleek and minimalistic frontends combined with high-performance backends, with the ultimate goal of delivering web solutions that add real value to businesses and drive progress. From the way I perceive it, web apps play an integral role in connecting individuals and entities with shared goals and common interests—they shrink vast geographical distances into valuable connections.
-
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25212865) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:razaawanpersonal@gmail.com) 
